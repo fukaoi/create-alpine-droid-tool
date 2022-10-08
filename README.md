@@ -3,7 +3,7 @@
 ### Usage
 
 + Termux-app in android
-+ pkg install tsu
++ pkg install tsu  (* sudo command)
 + $ sudo ./setup.sh
 
 ### start-alpine.sh
